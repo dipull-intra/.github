@@ -26,3 +26,8 @@
 
 ### 23 WP 이연준 (2학기~)
 
+## 2025년
+### [21 HD 최재민](https://github.com/jeamxn)
+- `Dipull`과 `Dipull Auth` 모노 레포로 통합
+- `Docker`를 사용한 개발 환경 설정
+- `Github Workflows`를 사용하여 테스트 추가
